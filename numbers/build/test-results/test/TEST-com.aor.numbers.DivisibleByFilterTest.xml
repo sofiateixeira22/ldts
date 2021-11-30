@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aor.numbers.DivisibleByFilterTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-11-30T11:22:52" hostname="pc" time="0.029">
+  <properties/>
+  <testcase name="acceptDivideBy2()" classname="com.aor.numbers.DivisibleByFilterTest" time="0.006"/>
+  <testcase name="acceptDivideBy3()" classname="com.aor.numbers.DivisibleByFilterTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
