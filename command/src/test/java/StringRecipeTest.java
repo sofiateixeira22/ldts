@@ -21,7 +21,7 @@ public class StringRecipeTest {
         transformers.add(sr);
 
         StringRecipe recipe = new StringRecipe(transformers);
-        recipe.mix();
+        recipe.mix(drink);
 
         assertEquals("dCbX-DcBa", drink.getText());
     }
